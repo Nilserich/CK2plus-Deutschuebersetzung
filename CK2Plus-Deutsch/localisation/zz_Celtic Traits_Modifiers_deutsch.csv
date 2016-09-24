@@ -1,0 +1,95 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+;;;;;;;;;;
+###Sacred Symbols
+sacred_the_giants_causeway;The Giants Causeway;;Der Riesendamm;;;;;;;;;;;x
+sacred_the_giants_causeway_desc;Ancient meeting place of the giant Fomorians, this place has kept a great importance for the sons of Mil.;;Antiker Treffpunkt der Riesen Fomorians. Dieser Ort hat eine Große Wichtigkeit für die Söhne Mil's.;;;;;;;;;;;x
+sacred_lia_fail;The Lia Fàil;;Der Stein von Fal;;;;;;;;;;;x
+sacred_lia_fail_desc;Sacred stone of Kings sitting on top of the hill of Tara, at the touch of the rightful king of Ireland, it screams his name three times.;;Heiliger Stein der Könige befindlich an der Spitze des Hügels von Tara. Bei der Berührung vom rechtmäßigen König von Irland schreit der Stein dreimal seinen Namen.;;;;;;;;;;;x
+sacred_carnac;The Stones of Carnac;;Der Stein von Carnac;;;;;;;;;;;x
+sacred_carnac_desc;Whether the remnants of a Roman army turned to stone by Merlin or ancient temple grounds of their primeval ancestors, the stones of Carnac are considered a sacred destination by many Celts.;;Ob die Überreste eine römischen Armee durch Merlin zu Stein verwandelt wurden oder ein antiker Tempelboden ihrer Ur-Vorfahren, die Steine von Carnac werden als heiliges Ziel von vielen Kelten betrachtet.;;;;;;;;;;;x
+sacred_stonehenge;Stonehenge;;Stonehenge;;;;;;;;;;;x
+sacred_stonehenge_desc;An important pilgrimage site, this stone circle, standing from times immemorial, is often used by the Druids for their sacred ceremonies.;;Eine wichtige Pilgerstätte, dieser Steinkreis steht seit Menschengedenken, wurde oft von den Druiden für ihre heiligen Zeremonien genutzt;;;;;;;;;;;x
+sacred_hill_of_uisneach;The Hill of Uisneach;;Der Hügel von Uisneach;;;;;;;;;;;x
+sacred_hill_of_uisneach_desc;Known as the sacred centre of Ireland, this hill is also the chosen site for the annual celebration of Beltaine.;;Bekannt als das heilige Zentrum Irlands, ist dieser Hügel auch der ausgewählte Ort für die jährliche Feier von Beltaine;;;;;;;;;;;x
+sacred_ring_of_brodgar;The Ring of Brodgar;;Der Ring von Brodgar;;;;;;;;;;;x
+sacred_ring_of_brodgar_desc;Most important stone circle in in northern Scotland, the Druids have made this a sacred temple to the Gods;;Der wichtigste Steinkreis im norden Schottlands haben die Druiden dies zu einem heiligen Tempel für die Götter gemacht;;;;;;;;;;;x
+sacred_bear;Sacred Bears;;Heiliger Bär;;;;;;;;;;;x
+sacred_bear_desc;The Bear is highly sacred in this region, thought to be the earthly avatar of many powerful gods and goddesses.;;Der Bär ist höchst heilig in dieser Region, geglaubt als der weltliche Körper von vielen mächtigen Göttern.;;;;;;;;;;;x
+sacred_horse;Sacred Horses;;Heiliges Pferd;;;;;;;;;;;x
+sacred_horse_desc;Protected by Macha, the white horses are a sign of the favour she has for this region.;;Beschützt durch Macha ist das weiße Pferd ein Zeichen ihres Wohlwollen für diese Region.;;;;;;;;;;;x
+sacred_yew;Sacred Yew Trees;;Heiliger Eibenbaum;;;;;;;;;;;x
+sacred_yew_desc;A symbol of immortality, the mighty yew trees that grow in the sacred groves are a gift from the Gods.;;Ein Symbol für Unsterblichkeit. Die mächtigen Eibenbäume, die in den heiligen Hainen sind ein Geschenk der Götter.;;;;;;;;;;;x
+sacred_stag;Sacred Stags;;Heiliger Hirsch;;;;;;;;;;;x
+sacred_stag_desc;Companion to the Gods and the many spirits of the land, the stags and deer of this area are particularly healthy.;;Begleiter der Götter und vieler Geister des Landes. Die Hirsche und Rehe dieses Gebietes sind besonders Gesund.;;;;;;;;;;;x
+sacred_dog;Sacred Dogs;;Heiliger Hund;;;;;;;;;;;x
+sacred_dog_desc;Dogs were seen to be keen-scented, good at hunting, guarding and healing themselves, their abundance in this region is clearly a gift.;;Hunde wurden gesichtet mit einem scharfen Geruchssinn, guten Jagdkünsten, Beschützerinstinkten und Selbstheilkräften. Ihre Fülle in dieser Region ist wahrhaft ein Geschenk;;;;;;;;;;;x
+sacred_oak;Sacred Oaks;;Heilige Eiche;;;;;;;;;;;x
+sacred_oak_desc;The great Oaks and the sacred mistletoe that they bear are of utmost importance to the Celts.;;Die großen Eichen und die heiligen Mistelzweige, die sie tragen, sind von allerhöchster Wichtigkeit für die Kelten;;;;;;;;;;;x
+sacred_standing_stones;Standing Stones;;Standing Stones;;;;;;;;;;;x
+sacred_standing_stones_desc;Often the site of pilgrimages, standing stones are a boon for any lord, their presence lending prestige and protection.;;Häufig der Ort von Pilgerreisen sind Standing Stones ein Segen für jeden Lord. Ihre Anwesenheit gibt Prestige und Schutz.;;;;;;;;;;;x
+sacred_lake;Sacred Lake;;Heiliger See;;;;;;;;;;;x
+sacred_lake_desc;This mysterious lake is often the recipient of gifts to the Gods, for its waters are considered a pathway to the Otherworld.;;Dieser misteriöse See ist häufig Empfänger für Geschenke an die Götter. Sein Wasser gilt als Pfad ins Jenseits.;;;;;;;;;;;x
+sacred_source;Sacred Spring;;Heilige Quelle;;;;;;;;;;;x
+sacred_source_desc;The waters flowing from this source are thought to hold healing powers and are thus sacred.;;Man glaubte das Wasser dieser Quelle habe Heilkräfte und ist deshalb heilig.;;;;;;;;;;;x
+sacred_river;Sacred River;;Heiliger Fluss;;;;;;;;;;;x
+sacred_river_desc;A goddess is believed to reside in the waters of this river, blessing all peoples living near it.;;Man glaubt eine Göttin lebt in dem Wasser dieses Flusses und segnet alle Menschen die in der Nähe leben.;;;;;;;;;;;x
+give_offerings_sidhe;Offerings to the Sidhe;;Spenden an die Sidhe;;;;;;;;;;;x
+give_offerings_sidhe_desc;The spirits and minor gods of the land must also be appeased.;;Die Geister und die niederen Götter des Landes müssen auch besänftigt werden.;;;;;;;;;;;x
+prepare_offerings;Prepare a ceremony to appease the sidhe.\n;;Bereite eine Zeremonie vor um die Sidhe zu besänftigen.;;;;;;;;;;;x
+sidhe_angry;Restless Sidhe;;Ruhelose Sidhe;;;;;;;;;;;x
+sidhe_angry_desc;The Sidhe in this province are restless and are the cause of many troubles.;;Die Sidhe in dieser Provinz sind ruhelos und der Grund vieler Unruhen.;;;;;;;;;;;x
+sidhe_offerings_good;Sidhe appreciate offerings;;Sidhe schätzen die Opfergaben;;;;;;;;;;;x
+sidhe_offerings_good_desc;Recent offerings to the Sidhe has put this ruler in good standing with them.;;Kürzliche Opfergaben an die Sidhe haben den Herrscher in gutes Ansehen mit ihnen gebracht.;;;;;;;;;;;x
+sidhe_offerings_bad;Sidhe rejected offerings;;Sidhe lehnten Opfergaben ab;;;;;;;;;;;x
+sidhe_offerings_bad_desc;The recent offerings made by this ruler to appease the Sidhe have been rejected;;Die kürzlichen Opfergaben dieses Herrschers um die Sidhe zu besänftigen, wurden abgelehnt.;;;;;;;;;;;x
+sidhe_offerings_neutral;Sidhe accepted offerings;;Sidhe akzeptierten Opfergaben;;;;;;;;;;;x
+sidhe_offerings_neutral_desc;An inferior offering left the spirits of the land satisfied, but wanting for more.;;Eine niedere Opfergabe ließ die Geitser des Landes besänftigt, aber hungrig nach mehr.;;;;;;;;;;;x
+
+### Changelings
+changeling_trade_approved;You approve the trade.;;Ihr erlaubt den Handel.;;;;;;;;;;;x
+changeling_trade_denied;You refuse the trade.;;Ihr verbietet den Handel.;;;;;;;;;;;x
+changeling_trade_begins;You pace back and forth.;Vous faites les cent pas.;Du gehst ruhelos hin und her.;;Vas de un lado a otro.;;;;;;;;;x
+changeling;Changeling;;Wechselbalg;;;;;;;;;;;;;x
+changeling_desc;This character is thought to be a changeling, switched at birth by fairies;;Man denkt diese Karakter sei ein Wechselbalg, ausgetauscht bei der Geburt durch Feen.;;;;;;;;;;;;;x
+
+### Divinations
+divination_bad;The gods are unsatisfied with our rule.\n;;Die Götter sind unzufrieden mit unserer Herrschaft;;;;;;;;;;;x
+
+###Thirteen Treasures
+treasure_cauldron;The Cauldron of Dyrnwch the Giant;;Der Kesseln von Dyrnwich dem Riesen;;;;;;;;;;;x
+treasure_cauldron_desc;If meat for a coward were put in it to boil, it would never boil, but if meat for a brave man were put in it, it would boil quickly.;;Wenn Fleisch eines Feiglings in den Kessel gepackt wird zum Kochen, wird es niemals kochen, aber wenn das Fleisch eines mutigen in den Kessel gepackt wird zum Kochen, würde es schnell kochen.;;;;;;;;;;;x
+treasure_chariot;The Chariot of Morgan Mwynfawr;;Der Streitwagen von Morgan Mwynfawr;;;;;;;;;;;x
+treasure_chariot_desc;If a man went in it, he might wish to be wherever he would, and he would be there quickly.;;Wenn ein Mensch es betreten würde, kann er sich wünschen zu sein wo er möchte und er würde schnell dort sein.;;;;;;;;;;;x
+treasure_chessboard;The Chessboard of Gwenddoleu ap Ceidio;;Das Schachbrett von Gwenddoleu ap Ceidio;;;;;;;;;;;x
+treasure_chessboard_desc;If the pieces were set, they would play by themselves. The board was of gold, and the men of silver.;;Wenn die Schachfiguren platziert sind, würden sie von alleine spielen. Das Brett ist aus Gold und die Figuren aus Silver.;;;;;;;;;;;x
+treasure_coat;The Coat of Padarn Beisrudd;;Der Mantel von Padarn Beisrudd;;;;;;;;;;;x
+treasure_coat_desc;If a well-born man put it on, it would be the right size for him. if a churl, it would not go upon him.;;Wenn ein wohlgeborener ihn anziehen würde, würde der Mantel die richtige Grüße für in haben. Bei einem Knecht würde es nicht über ihm gehen.;;;;;;;;;;;x
+treasure_crock_and_dish;The Crock and Dish of Rhygenydd Ysgolhaig;;Der Tonkrug und Platte von Rhygenydd Ysgolhaig;;;;;;;;;;;x
+treasure_crock_and_dish_desc;Whatever food might be wished for in them, it would be found.;;Egal welches Essen man sich in ihnen wünscht, man möge es finden.;;;;;;;;;;;x
+treasure_dyrnwyn;Dyrnwyn, the Sword of Rhydderch Hael;;Dyrnwyn, das Schwert von Rhydderch Hael;;;;;;;;;;;x
+treasure_dyrnwyn_desc;If any man drew it except himself, it burst into a flame from the cross to the point, and all who asked it received it, but because of this property all shunned it, and therefore was he called Rhydderch Hael.;;Jeder Mann der das Schwert zieht außer er selbst, würde das Schwert vom Kreuz bis zur Spitze in einer Flamme zerbersten und alle und alle die Gebeten haben, haben es erhalten. Aber wegen dieser Eigenschaft mieden es all und deshalb wurde er Rhydderch Hael genannt.;;;;;;;;;;;x
+treasure_halter;The Halter of Clydno Eiddyn;;Das Halfter von Clydno Eiddyn;;;;;;;;;;;x
+treasure_halter_desc;Which was fixed to a staple at the foot of his bed: whatever horse he might wish for, he would find in the halter.;;Es war an einer Krampe am Fuße seines Bettes befestigt: egal welches Pferd er sich wünschte, er würde es in dem Halfter finden.;;;;;;;;;;;x
+treasure_hamper;The Hamper of Gwyddno Garanhir;;Der Esskorb von Gwyddno Garanhir;;;;;;;;;;;x
+treasure_hamper_desc;Food for one man would be put in it, and when it was opened, food for a hundred men would be found in it.;;Essen für eine Person wurde reingepackt und wenn es wieder geöffnet wurde, würde man Essen für hundert Leute in ihm finden.;;;;;;;;;;;x
+treasure_horn;The Horn of Brân Galed;;Das Horn von Brân Galed;;;;;;;;;;;x
+treasure_horn_desc;Whatever drink might be wished for was found in it;;Egal welches Getränk man sich wünscht, man würde es in dem Horn finden.;;;;;;;;;;;x
+treasure_knife;The Knife of Llawfrodedd the Horseman;;Das Messer von Llawfrodedd dem Reiter;;;;;;;;;;;x
+treasure_knife_desc;Which would serve for twenty-four men to eat at table.;;Welches für 24 Leute an einem Tisch zu essen auftischen würde.;;;;;;;;;;;x
+treasure_mantle_arthur;The Mantle of Arthur;;Der Mantel von Arthur;;;;;;;;;;;x
+treasure_mantle_arthur_desc;Whoever was under it could not be seen, and he could see everyone.;;Jeder der unter im war, konnte nicht gesehen werden, aber konnte jeden sehen.;;;;;;;;;;;x
+treasure_mantle_tegau;The Mantle of Tegau Gold-Breast;;Der Mantel von Tegau Gold-Brust;;;;;;;;;;;x
+treasure_mantle_tegau_desc;For all unchaste women the mantle will not cover them, nor will it maintain a single colour.;;Für alle unkeuschen Frauen würde der Mantel sie nicht bedecken noch würde es eine einzelne Farbe beibehalten.;;;;;;;;;;;x
+treasure_stone_and_ring;The Stone and Ring of Eluned the Fortunate;;Der Stein und Ring von Eluned der Glücklichen;;;;;;;;;;;x
+treasure_stone_and_ring_desc;If her lover wore the ring's stone within his hand and closed his fist about the stone he would be concealed and as long as he concealed the stone its powers would also conceal him.;;Wenn ihr Liebhaber den Stein des Ringes in seiner Hand tragen würde und seine Faust um den Stein schließt, würde er verborgen sein und solange er den Stein verborgen hält, würden seine Kräfte auch ihn verhüllen;;;;;;;;;;;x
+treasure_whetstone;The Whetstone of Tudwal Tudglyd;;Der Schleifstein von Tudwal Tudglyd;;;;;;;;;;;x
+treasure_whetstone_desc;If a brave man sharpened his sword on the whetstone, then the sword would certainly kill any man from whom it drew blood. If a cowardly man used the whetstone, though, his sword would refuse to draw blood at all.;;Wenn ein braver Mann sein Schwert mit diesem Wetzstein schärft, würde das Schwert jeden töten von dem es Blut erzeugte. Wenn ein feiger Mann den Wetzstein nutzte, würde sein Schwert sich weigern Blut zu erzeugen;;;;;;;;;;;x
+###Druidic Caste
+learning_druidic_arts;Novice;;Novize;;;;;;;;;;;;;x
+learning_druidic_arts_desc;This character is learning the secret arts and rituals of the Druids, he has much to learn.;;Dieser Karakter lernt die geheimen Künste und Rituale der Druiden. Er hat noch viel zu lernen.;;;;;;;;;;;;;;x
+bad_druid;Wizard;;Hexenmeister;;;;;;;;;;;x
+bad_druid_desc;This druid has decided to use the ancient secrets of the druid for his own personal gain, his sacrilegious behavior is unfitting of a druid.;;Dieser Druide hat sich dazu entschieden die antiken Geheimnisse der Druiden zu seiner persönlichen Bereicherung zu nutzen. Sein frevelhaftes Verhalten ist unziemlich für einen Druiden.;;;;;;;;;;;x
+assign_bard;You should not be seeing this (Bard Assign);;Du solltest dies nicht sehen (Barde Zuordnung);;;;;;;;;;;;;x
+assign_druid;You should not be seeing this (Druid Assign);;Du solltest dies nicht sehen(Druide Zuordnung);;;;;;;;;;;;;x
+invite_druid_to_court;Invite Druid to Court;;Lade Druiden zum Hof ein;;;;;;;;;;;;;x
+invite_druid_to_court_desc;Invite a Druid to your court - this can only be done every two years;;Lade einen Druiden zu deinem Hof ein. Dies kann nur alle 2 Jahre getan werden.;;;;;;;;;;;;;x

@@ -1,0 +1,31 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+################################################################################
+####  CHARACTER MODIFIERS
+################################################################################
+emf_faction_rebel_antichrist;Rebel Anti-Christ;;Anti-Christlicher Rebel;;;;;;;;;;;x
+emf_faction_rebel_antichrist_desc;DEV: All qualifying vassals of my liege will support me in a revolt.;;Alle qualifizierten Vasallen meines Lehnsherren werden mich in einer Revolte unterstützen.;;;;;;;;;;;x
+################################################################################
+####  DECISIONS
+################################################################################
+emf_debug_faction_court_war;DEV: Court Faction Revolt;;DEV: Revolte der Hofs-Fraktion;;;;;;;;;;;x
+emf_debug_faction_prosperity_war;DEV: Prosperity Faction Revolt;;DEV: Revolter der Wohlstands-Reaktion;;;;;;;;;;;x
+emf_debug_faction_glory_war;DEV: Glory Faction Revolt;;DEV: Revolte der Ruhm-Fraktion;;;;;;;;;;;x
+emf_debug_faction_tradition_war;DEV: Tradition Faction Revolt;;DEV: Revolte der Traditionellen Fraktion;;;;;;;;;;;x
+emf_debug_faction_court_war_desc;Start an overthrow revolt against [Root.GetTitledFirstName] led by the Court Faction, as if they had voted to do so.;;Beginne eine Stürzungsrevolte gegen [Root.GetTitledFirstName], angeführt bei der Hofs-Fraktion, als hätten sie gewählt dies zu tun;;;;;;;;;;;x
+emf_debug_faction_prosperity_war_desc;Start an overthrow revolt against [Root.GetTitledFirstName] led by the Prosperity Faction, as if they had voted to do so.;;Beginne eine Stürzungsrevolte gegen [Root.GetTitledFirstName], angeführt bei der Wohlstands-Fraktion, als hätten sie gewählt dies zu tun;;;;;;;;;;;x
+emf_debug_faction_glory_war_desc;Start an overthrow revolt against [Root.GetTitledFirstName] led by the Glory Faction, as if they had voted to do so.;;Beginne eine Stürzungsrevolte gegen [Root.GetTitledFirstName], angeführt bei der Ruhm-Fraktion, als hätten sie gewählt dies zu tun;;;;;;;;;;;x
+emf_debug_faction_tradition_war_desc;Start an overthrow revolt against [Root.GetTitledFirstName] led by the Tradition Faction, as if they had voted to do so.;;Beginne eine Stürzungsrevolte gegen [Root.GetTitledFirstName], angeführt bei der Traditionellen Fraktion, als hätten sie gewählt dies zu tun;;;;;;;;;;;x
+emf_debug_faction_log_revolt_state;DEV: Log Civil War State;;DEV: protokolliere Status des Bürgerkrieges;;;;;;;;;;;x
+emf_debug_faction_log_revolt_state_desc;Dump [Root.GetTitledFirstName]'s civil war state tracking information to game.log.;;Werde [Root.GetTitledFirstName]'s Bürgerkriegstatus Verfolgungsinformationen in game.log los.;;;;;;;;;;;x
+################################################################################
+####  EVENTS
+################################################################################
+emf_faction.1003.desc_courtier;§RDebug Mode: PF Error§!\n\n[From.GetTitledName]\n\nIncoherent non-ruler civil war state!;;§RDebug Mode: PF Error§!\n\n[From.GetTitledName]\n\nInkoherenter Nichtherrscher Bürgerkriegsstatus!;;;;;;;;;;;x
+emf_faction.1003.desc_ruler;§RDebug Mode: PF Error§!\n\n[From.GetTitledFirstName] of the [From.PrimaryTitle.GetFullBaseName]\n\nIncoherent civil war state!;;§RDebug Mode: PF Error§!\n\n[From.GetTitledFirstName] von [From.PrimaryTitle.GetFullBaseName]\n\nInkoherenter Nichtherrscher Bürgerkriegsstatus!;;;;;;;;;;;x
+emf_faction.1010.desc;You may incite a normal faction overthrow revolt, as if the faction had decided to do so, wherein dynamic call-to-arms will work as usual. Alternatively, you may force all qualifying vassals of [From.GetTitledFirstName] to accept the rebel call-to-arms, which will normally result in a much more inclusive revolt.;;Du kannst eine normale Fraktionen Stürzungsrevolte anstifeten, als häte die Fraktion entschieden dies zu tun, wobei dynamischer Ruf zu den Waffen wie gewöhnlich funktioniert. Alternativ kannst du alle qualifizierten Vasallen von [From.GetTitledFirstName] dazu zwingen den Ruf zu den Waffen zu akzeptieren, was normalerweise in einer wesentlich mehr inbegriffenen Revolte resultiert.;;;;;;;;;;;x
+emf_faction.1010.opt.a;Standard Revolt;;Standard Revolte;;;;;;;;;;;x
+emf_faction.1010.opt.b;Maximal Revolt;;Maximale Revolte;;;;;;;;;;;x
+################################################################################
+####  TOOLTIPS
+################################################################################
+emf_debug_ctt_faction_not_already_revolting;This faction is not already part of a revolt.\n;;Diese Fraktion ist noch nicht teil einer Revolte.\n;;;;;;;;;;;x
