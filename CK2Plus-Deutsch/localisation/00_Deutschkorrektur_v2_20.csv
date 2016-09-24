@@ -2,7 +2,7 @@
 ########################################################;;;;;;;;;;;;;;x
 #                  Deutschkorrekturen                  #;;;;;;;;;;;;;;x
 #                        für CK2                       #;;;;;;;;;;;;;;x
-#                    Version 1.0.12                    #;;;;;;;;;;;;;;x
+#                    Version 1.0.13                    #;;;;;;;;;;;;;;x
 #u.a Aardvark Bellay, RaschidalDin, Rhineland, Thimorin#;;;;;;;;;;;;;;x
 #           Kornstab, Targor, Hirte, mate0815          #;;;;;;;;;;;;;;x
 #     Ein Dank geht für die Vorarbeit und Hilfe an:    #;;;;;;;;;;;;;;x
@@ -1167,7 +1167,7 @@ tribal_organization_3;High Tribal Organization;Organisation tribale élevée;Hohe 
 tribal_organization_3_option;High;Élevée;Hoch;;Alta;;;;;;;;x
 tribal_organization_4;Absolute Tribal Organization;Organisation tribale absolue;Absolute Stammesorganisation;;Organización Tribal Absoluta;;;;;;;;x
 tribal_organization_4_option;Max;Max;Max;;Máx.;;;;;;;;x
-CAP_WAR_UNDECIDED_NO_MAJOR_BATTLE;Score is capped at §Y$CAP$§! because less than §Y$MONTHS$§! months have passed and §Y$ATTACKER$§! has not yet won a major battle;Le score est plafonné à §Y$CAP$§! car moins de §Y$MONTHS$§! mois se sont écoulés et §Y$ATTACKER$§! n'a pas encore remporté de bataille majeure.;Die Punktzahl wird bei §Y$CAP$§! begrenzt, weil weniger als §Y$MONTHS$§! vergangen sind und §Y$ATTACKER$§! noch keine größere Schlacht gewonnen hat.;;La puntuación tiene un tope de §Y$CAP$§! porque han pasado menos de §Y$MONTHS$§! meses y los §Y$ATTACKER$§! aún no han ganado ninguna batalla importante.;;;;;;;;;x
+CAP_WAR_UNDECIDED_NO_MAJOR_BATTLE;Score is capped at §Y$CAP$§! because less than §Y$MONTHS$§! months have passed and §Y$ATTACKER$§! has not yet won a major battle;Le score est plafonné à §Y$CAP$§! car moins de §Y$MONTHS$§! mois se sont écoulés et §Y$ATTACKER$§! n'a pas encore remporté de bataille majeure.;Die Punktzahl wird bei §Y$CAP$§! begrenzt, weil weniger als §Y$MONTHS$§! Monate vergangen sind und §Y$ATTACKER$§! noch keine größere Schlacht gewonnen hat.;;La puntuación tiene un tope de §Y$CAP$§! porque han pasado menos de §Y$MONTHS$§! meses y los §Y$ATTACKER$§! aún no han ganado ninguna batalla importante.;;;;;;;;;x
 EVTDESC63103;Your liege has died, and now someone else dare claim to be your superior. Perhaps this is the right time to assert your independence?;Votre seigneur est mort et maintenant, quelqu'un ose se prétendre votre supérieur. Il est peut-être temps de revendiquer votre indépendance, non ?;Ihr Lehnsherr ist gestorben und jetzt erhebt jemand anders den Anspruch auf Herrschaft über Sie. Vielleicht ist das der rechte Augenblick, Ihre Unabhängigkeit zu erklären?;;Tu señor feudal ha muerto y ahora hay un tipo que osa reclamar convertirse en tu superior. ¿Ha llegado el momento justo de reivindicar tu independencia?;;;;;;;;;x
 EVTOPTA63103;I will not bend my knee to a weakling!;Je ne m'agenouillerai pas devant une mauviette !;Ich beuge mein Knie vor keinem Schwächling!;;¡No me arrodillaré ante un alfeñique!;;;;;;;;;x
 EVTOPTB63103;[New.GetTitledFirstName] is someone I could follow.;[New.GetTitledFirstName] est une personne à qui je pourrais accorder ma confiance.;[New.GetTitledFirstName] ist jemand, dem ich folgen könnte.;;[New.GetTitledFirstName] es alguien a quien podría seguir.;;;;;;;;;x
