@@ -1,61 +1,61 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-bohemian;Czech;TchËque;Tschechisch;;Czech;;;;;;;x
-bolghar;Bolghar;Bulgare;Bulgaranisch;;Bolghar;;;;;;;;;x
+bohemian;Czech;Tch√®que;Tschechisch;;Czech;;;;;;;x
+bolghar;Bolghar;Bulgare;Bulgarisch;;Bolghar;;;;;;;;;x
 bafour;Bafour;Bafour;Bafourisch;;Bafour;;;;;;;;;x
 coptic;Sahidic;Sahidic;Sahidic;;Sahidic;;;;;;;;;x
-coptic_group;Coptic;Coptic;Coptic;;Coptic;;;;;;;;;x
-crusader_group;Crusader;CroisÈ;Kreuzz¸gler;;Crusader;;;;;;;;;x
+coptic_group;Coptic;Coptic;Koptisch;;Coptic;;;;;;;;;x
+crusader_group;Crusader;Crois√©;Kreuzz√ºgler;;Crusader;;;;;;;;;x
 dnepr_slav;Dnepr Slav;Dnepr Slav;Dnepr Slawisch;;Dnepr Slav;;;;;;;;;
 dnestr_slav;Dnestr Slav;Dnestr Slav;Dnister Slawisch;;Dnestr Slav;;;;;;;;;
 english_norse;Anglo-Norse;Anglo-Scandinave;Anglo-Skandinavisch;;Anglo-Norse;;;;;;x
 gallawa;Gallawa;Gallawa;Gallawa;;Gallawa;;;;;;;;;x
-icelandic;Icelandic;Islandais;Isl‰ndisch;;Icelandic;;;;;;;;;x
-iranian;Iranian;Iranien;Iranisch;;IranÌ;;;;;;;;;x
+icelandic;Icelandic;Islandais;Isl√§ndisch;;Icelandic;;;;;;;;;x
+iranian;Iranian;Iranien;Iranisch;;Iran√≠;;;;;;;;;x
 jolof;Jolof;Djolof;Jolofisch;;Jolof;;;;;;;;;x
-judaic;Judaic;JudaÔque;J¸disch;;Judaic;;;;;;;;;x
+judaic;Judaic;Juda√Øque;J√ºdisch;;Judaic;;;;;;;;;x
 khazar;Khazar;Khazare;Khazarisch;;Khazar;;;;;;;;;x
 mizrahim;Mizrahim;Mizrahim;Mizrahim;;Mizrahim;;;;;;;;;x
 nubian;Nubian;Nubien;Nubisch;;Nubian;;;;;;;x
 outremer;Outremer;Outremer;Outremer;;Outremer;;;;;;;x
 pommeranian;Wend;Wendes;Wendisch;;Wend;;;;;;;x
-saxon;Anglo-Saxon;Anglo-Saxon;Angels‰chsisch;;Anglo-Saxon;;;;;;;x
-sephardic;Sephardic;SÈfarade;Sephardisch;;Sephardic;;;;;;;;;x
+saxon;Anglo-Saxon;Anglo-Saxon;Angels√§chsisch;;Anglo-Saxon;;;;;;;x
+sephardic;Sephardic;S√©farade;Sephardisch;;Sephardic;;;;;;;;;x
 sicilian;Sicilian;Sicilien;Sizilianisch;;Sicilian;;;;;;;;;x
 sicilian_arabic;Siculo-Arabic;Sicilien-Arabe;Sizilisch-Arabisch;;Siculo-Arabic;;;;;;;;;x
 sicilian_greek;Siculo-Greek;Sicilien-Grec;Sizilisch-Griechisch;;Siculo-Greek;;;;;;;;;x
 somali;Somali;Somalien;Somalisch;;i;;;;;;;x
 sosso;Sosso;Sosso;Susuisch;;Sosso;;;;;;;;;x
-ugricbaltic;Estonian;Estonien;Estl‰ndisch;;Estonia;;;;;;;;;x
+ugricbaltic;Estonian;Estonien;Estl√§ndisch;;Estonia;;;;;;;;;x
 volga_slav;Volga Slav;Volga Slav;Wolga Slawisch;;Volga Slav;;;;;;;;;
 arberian;Albanian;Albanian;Albanisch;;Albanian;;;;;;;;;x
 assyrian;Assyrian;Assyrian;Assyrisch;;Assyrian;;;;;;;;;x
-aramaic;Aramaic;Aramaic;Aram‰isch;;Aramaic;;;;;;;;;x
+aramaic;Aramaic;Aramaic;Aram√§isch;;Aramaic;;;;;;;;;x
 beja;Beja;Beja;Beja;;Beja;;;;;;;;;x
 songhai;Songhai;Songhai;Songhai;;Songhai;;;;;;;;;x
-east_germanic;East Germanic;Est Germanique;Ostgermanisch;Este Germ·nico;;;;;;x
+east_germanic;East Germanic;Est Germanique;Ostgermanisch;Este Germ√°nico;;;;;;x
 east_romance;Vlach;Vlach;Vlach;Vlach;;;;;;x
 aromanian;Aromanian;Aromanian:Aromunisch;Aromanian;;;;;;x
 vasconic;Vasconic;Vasconic;Vasconisch;Vasconic;;;;;;x
 tocharian_group;Tocharian;Tocharian;Tocharisch;Tocharian;;;;;;x
 burgundian;Burgundian;Burgundian;Burgundisch;Burgundian;;;;;;x
-romanian;Wallachian;Wallachian;Wallacheiisch;Wallachian;;;;;;x
+romanian;Wallachian;Wallachian;Walachisch;Wallachian;;;;;;x
 gepidae;Gepid;Gepid;Gepidisch;Gepid;;;;;;x
 ostrogothic;Ostrogothic;Ostrogothic;Ostgotisch;Ostrogothic;;;;;;x
 old_gothic;Gothic;Gothic;Gothisch;Gothic;;;;;;;;;x
-vandalic;Vandal;Vandale;Vandalen;Vand·lico;;;;;;x
+vandalic;Vandal;Vandale;Vandalisch;Vand√°lico;;;;;;x
 agnean;Agnean;Agnean;Agnean;Agnean;;;;;;;;;x
-franco_germanic;Weser-Rhine Germanic;Rhin Germ·nica;Fr‰nkischdeutsch;Renania Germ·nica;;;;;;x
-imperial_german;High German;Haute Allemand;Hochdeutsch;;Alto Alem·n;;;;;x
-swabian;Swabian;Swabian;Schw‰bisch;;Swabian;;;;;;;;x
+franco_germanic;Weser-Rhine Germanic;Rhin Germ√°nica;Fr√§nkischdeutsch;Renania Germ√°nica;;;;;;x
+imperial_german;High German;Haute Allemand;Hochdeutsch;;Alto Alem√°n;;;;;x
+swabian;Swabian;Swabian;Schw√§bisch;;Swabian;;;;;;;;x
 swiss;Swiss;Swiss;Schweizerisch;;Swiss;;;;;;;;x
 bavarian;Bavarian;Bavarian;Bayrisch;;Bavarian;;;;;;;;x
-austrian;Austrian;Austrian;÷sterreichisch;;Austrian;;;;;;;;x
-colognian;Colognian;Colognian;Kˆlnisch;;Colognian;;;;;;;;x
-flemish;Flemish;Flemish;Fl‰mish;;Flemish;;;;;;;;x
-thuringian;Thuringian;Thuringian;Th¸ringisch;;Thuringian;;;;;x
-franconian;Franconian;Franconian;Fr‰nkisch;;Franconian;;;;;;;;x
+austrian;Austrian;Austrian;√ñsterreichisch;;Austrian;;;;;;;;x
+colognian;Colognian;Colognian;K√∂lnisch;;Colognian;;;;;;;;x
+flemish;Flemish;Flemish;Fl√§mish;;Flemish;;;;;;;;x
+thuringian;Thuringian;Thuringian;Th√ºringisch;;Thuringian;;;;;x
+franconian;Franconian;Franconian;Fr√§nkisch;;Franconian;;;;;;;;x
 scots;Scots;Scots;Schottisch;;Scots;;;;;;;;x
-teutonic;Low Prussian;Low Prussian;Niederpreuﬂisch;;Low Prussian;;;;;x
+teutonic;Low Prussian;Low Prussian;Niederpreu√üisch;;Low Prussian;;;;;x
 german;Alemannic;Alamans;;Alemannisch;;Alamanos;;;;;x
 central_germanic;Elbe Germanic;Elbe Germanic;Elbgermanisch;Elbe Germanic;;;;;;x
 west_germanic;Mare Germanic;Mer-Germanique;Meergermanisch;Mare Germanic;;;;;;x
